@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/RagingRectangle/rdmGruber#readme",
   "dependencies": {
-    "@discordjs/rest": "1.1.0",
+    "@discordjs/rest": "1.7.1",
     "ansi-parser": "^3.2.10",
     "color-convert": "^2.0.1",
     "cron": "^1.8.2",
