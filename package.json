@@ -21,7 +21,7 @@
     "ansi-parser": "^3.2.10",
     "color-convert": "^2.0.1",
     "cron": "^1.8.2",
-    "discord-api-types": "0.36.2",
+    "discord-api-types": "0.37.61",
     "discord.js": "14.0.1",
     "easy-table": "^1.2.0",
     "file-exists": "^5.0.1",
